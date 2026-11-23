@@ -1,0 +1,14 @@
+# Secrets
+*.key
+*.pem
+.env
+.terraform/
+*.tfstate*
+
+# Logs & temp
+*.log
+tmp/
+expected/*.local
+
+# OS
+.DS_Store
