@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+=======
+# basis
+
+>>>>>>> b1538ef (feat(lab03): add advanced bash scripts and manual fixes)
 basis
 
-## Статус лабораторных
+## labs status
 - [x] 01. Shell Basics
 - [x] 02. Shell Control Flow
-... (полный список в docs/ROADMAP.md)
+... (docs/ROADMAP.md)
