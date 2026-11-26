@@ -11,3 +11,8 @@ lab02:
 	@echo "=== Running Lab 02: Control Flow ==="
 	@bash labs/02-shell-control-flow/run.sh | tee labs/02-shell-control-flow/expected/output.txt
 	@echo "✅ Done."
+
+lab03:
+	@echo "=== Running Lab 03: Advanced Bash ==="
+	@bash labs/03-shell-advanced/run.sh | tee labs/03-shell-advanced/expected/output.txt
+	@echo "✅ Done."
