@@ -6,7 +6,7 @@
 - [x] 01. Shell Basics
 - [x] 02. Shell Control Flow
 - [x] 03. Shell Advanced
-- [ ] 04. Shell Capstone
+- [x] 04. Shell Capstone
 - [ ] 05. iptables Filter
 - [ ] 06. iptables NAT
 - [ ] 07. SSH MFA
